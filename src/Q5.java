@@ -12,7 +12,7 @@ public class Q5 {
                                                   "\n S (for subtraction)" +
                                                    "\n M (for multiplication)" +
                                                    "\n D (for division)" +
-                                                   "\n\nwhat Operation do you want to perform:\n",
+                                                   "\n\n Operation desired:\n",
                                                     "Cal", JOptionPane.INFORMATION_MESSAGE);
       Float num = Float.parseFloat(JOptionPane.showInputDialog("enter a number ;\n"));
 
