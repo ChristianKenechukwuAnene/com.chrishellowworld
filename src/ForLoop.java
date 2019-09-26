@@ -16,5 +16,6 @@ public class ForLoop {
         area.append(table);
 
         JOptionPane.showMessageDialog(null,area);
+
     }
 }
