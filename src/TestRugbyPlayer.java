@@ -1,4 +1,4 @@
-public class TestRugbyPlayer {
+public class TestRugbyPlayer {          //Driver method
     public static void main(String[] args) {
         RugbyPlayer John = new RugbyPlayer();
         John.setName("John");
